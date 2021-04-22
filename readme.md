@@ -1,3 +1,3 @@
-Spring MVC
+Spring MVC with Securty & Hibernate
 
-- This is Spring MVC prject.
+- This is Spring MVC with Securty & Hibernate prject.
